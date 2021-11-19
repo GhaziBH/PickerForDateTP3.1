@@ -1,0 +1,4 @@
+1)menu_main.xml
+2)onOptionsItemSelected(MenuItem item)
+3)myAlertBuilder.setTitle("Alert")
+4)Dans la méthode onCreateView() de l'extension DialogFragment.
